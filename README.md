@@ -1,5 +1,6 @@
 ### Why Blocker?
 Blocker exists to kill that friction. It does one thing and does it right: **it removes the noise and automates the annoyance.** 
+The one thing it does is block the pop-up on the Gemini web app free version.  That's it, nothing else.
 
 *   **No bloat.**
 *   **No unnecessary bells.**
